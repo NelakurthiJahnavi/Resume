@@ -1,11 +1,11 @@
 # NELAKURTHY JAHNAVI
 ===============================
-### Personal Details : 
+## Personal Details : 
 - DOB : **13-04-2002**
 - Email : **nelakurthijahnavi@gmail.com**
 - Contact number : **8074327017**
 - Address : **GUNTUR**
-### Education Details :
+## Education Details :
 ### B.tech
 - **RVR & JC College Of Engineering**
 - **CSE**
@@ -21,11 +21,11 @@
 - **SSC**
 - **2016-2017**
 - **Guntur , Andhra pradesh , India.**
-### Technical skills :
+## Technical skills :
 - **Python**
 - **Java**
 - **C**
 - **DBMS**
 - **GIT and GITHUB**
-#### Certifications :
+## Certifications :
 - Certified **C Programming** through **NPTEL**
